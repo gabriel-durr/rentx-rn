@@ -1,12 +1,11 @@
-<h1 align="center" class="line-1 anim-typewriter"> NOME DO PROJETO</h1>
+<h1 align="center" class="line-1 anim-typewriter"> Rentx React Native</h1>
 
-<div align="center">
-        <img align="center" src="./.github/details.png" alt="Imagem do projeto" > 
-        <img align="center" src="./.github/details-two.png" alt="Imagem do projeto" > 
-        <img align="center" src="./.github/finish.png" alt="Imagem do projeto" > 
-        <img align="center" src="./.github/home-cars.png" alt="Imagem do projeto" > 
-        <img align="center" src="./.github/period-date.png" alt="Imagem do projeto" > 
-        
+<div align="center" width="100%">
+        <img align="center" src="./.github/home-cars.png" alt="Imagem do projeto" width="25%"> 
+        <img align="center" src="./.github/period-date.png" alt="Imagem do projeto" width="25%">  
+        <img align="center" src="./.github/details.png" alt="Imagem do projeto" width="25%"> 
+        <img align="center" src="./.github/details-two.png" alt="Imagem do projeto" width="25%"> 
+        <img align="center" src="./.github/finish.png" alt="Imagem do projeto" width="25%">            
 </div>
 
 <br/>
@@ -45,9 +44,9 @@ TypeScript is a strongly typed programming language that builds on ... [Learn Mo
 
 <p float="left">
 
-<img alt="React Native"  src="./.github/react-native.svg" width="32px" hspace="4"/>
-<img alt="Expo CLI"  src="./.github/expocli.png" width="32px" hspace="4"/>
-<img alt="TypeScript"  src="./.github/typescript.svg" width="32px" hspace="4"/>
+<img alt="React Native"  src="./.github/react-native.svg" width="42px" hspace="4"/>
+<img alt="Expo CLI"  src="./.github/expocli.png" width="42px" hspace="4"/>
+<img alt="TypeScript"  src="./.github/typescript.svg" width="42px" hspace="4"/>
 
 </p>
         
